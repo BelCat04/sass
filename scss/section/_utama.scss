@@ -1,0 +1,36 @@
+.utama {
+    border-bottom: 1px solid;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.semuagambar{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    box-sizing: border-box;
+    margin: 50px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid;
+}
+
+.semuagambar img {
+    width: 250px;
+    height: auto;
+}
+
+.semuagambar p a {
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 18px;
+    color: black;
+}
+
+.semuagambar p a:hover{
+    color:red;
+}
+
+.gambar1,.gambar2, .gambar3, .gambar4, .gambar5, .gambar6 {
+    margin: 20px;
+    position: relative;
+   
+}

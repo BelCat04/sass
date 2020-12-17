@@ -1,0 +1,70 @@
+header {
+    padding-bottom: 0;
+    /*border-bottom: 1px solid #A2A2A2;*/
+    padding: 10px;
+}
+
+.logo-kananatas {
+    display: flex;
+} 
+
+.logo{
+    width: 5%;
+    height: auto; 
+}
+
+
+.logo img {
+    padding-left: 15px;
+    padding-top: 30px;
+}
+
+.kananatas {
+    padding-left: 75%;
+    padding-top: 30px;
+    width: auto;
+    
+}
+
+.kananatas ul li {
+    list-style: none;
+    padding-top: 5px;
+    margin: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+.kananatas ul li a {
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+}
+
+.kananatas ul li input {
+    padding: 5px;
+    
+}
+.navbar {
+    width: auto;
+    height: auto;
+    padding-top: 50px;
+    border-bottom: 1px solid;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0 10px 0;
+    
+}
+.navbar ul li {
+    list-style: none;
+    font-weight: bold;
+}
+
+
+.navbar ul li:hover {
+    color: gray;
+}

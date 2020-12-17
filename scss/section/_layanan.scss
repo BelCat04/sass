@@ -1,0 +1,55 @@
+.layanan {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    border-bottom: 1px solid;
+    padding-bottom: 30px;
+}
+
+.textlayanan h3{
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.textlayanan p {
+    padding-top: 10px;
+    border-top: 2px solid;
+    margin: 10px;
+    
+}
+
+.textlayanan a {
+    float: right;
+    border: 1px solid;
+    margin-right: 10px;
+    background-color: green;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    border-width: 10px;
+    border-color: green;
+}
+
+.layanan img {
+    padding-left: 50px;
+}
+
+.icon {
+    display: flex;
+    display: inline;
+    margin: 5px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    
+}
+
+.bungkus {
+    display: flex;
+    width: 100%;
+    margin: 20px;
+    padding-left: 100px;
+    background-color: lightgray;
+    border-top: 2px lightgray;
+}
